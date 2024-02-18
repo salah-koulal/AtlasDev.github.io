@@ -328,6 +328,7 @@ nav {
 @media (max-width: 600px) {
   .video {
     padding-top: 100%; 
+    padding-right: 30px;
   }
 }
 .footer {
