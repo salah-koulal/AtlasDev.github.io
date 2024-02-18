@@ -321,17 +321,15 @@ nav {
 /* Responsive Styles */
 @media (max-width: 900px) {
   .video {
-    padding-top: 75%;    
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 }
 
 @media (max-width: 400px) {
   .video {
-    padding-top: 100%; 
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 }
 .footer {
