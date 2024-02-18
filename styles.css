@@ -320,13 +320,13 @@ nav {
 
 /* Responsive Styles */
 @media (max-width: 900px) {
-  .video-container {
+  .video {
     padding-top: 75%; 
   }
 }
 
 @media (max-width: 600px) {
-  .video-container {
+  .video {
     padding-top: 100%; 
   }
 }
